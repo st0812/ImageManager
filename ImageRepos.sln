@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageDomain", "ImageDomain\ImageDomain.csproj", "{50AF16F3-9A35-4C76-86D7-837F65BF9654}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLiteInfrastructure", "SQLiteInfrastructure\SQLiteInfrastructure.csproj", "{938F2B6C-3CC3-4706-B94F-E31F6053862F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageApplication", "ImageApplication\ImageApplication.csproj", "{9579B7DB-4A05-4ADD-AAB3-FFEA70D0896C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageUploader", "ImageUploader\ImageUploader.csproj", "{7EA811DD-038A-4D08-871A-34C7D3854A02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageViewer", "ImageViewer\ImageViewer.csproj", "{BFA14C66-FD80-43F2-B889-A82EA172C899}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfViewModel", "WpfViewModel\WpfViewModel.csproj", "{672F8A74-F5B4-460D-B239-00F82536CFDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AF16F3-9A35-4C76-86D7-837F65BF9654}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AF16F3-9A35-4C76-86D7-837F65BF9654}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AF16F3-9A35-4C76-86D7-837F65BF9654}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AF16F3-9A35-4C76-86D7-837F65BF9654}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938F2B6C-3CC3-4706-B94F-E31F6053862F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938F2B6C-3CC3-4706-B94F-E31F6053862F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938F2B6C-3CC3-4706-B94F-E31F6053862F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938F2B6C-3CC3-4706-B94F-E31F6053862F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9579B7DB-4A05-4ADD-AAB3-FFEA70D0896C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9579B7DB-4A05-4ADD-AAB3-FFEA70D0896C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9579B7DB-4A05-4ADD-AAB3-FFEA70D0896C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9579B7DB-4A05-4ADD-AAB3-FFEA70D0896C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EA811DD-038A-4D08-871A-34C7D3854A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EA811DD-038A-4D08-871A-34C7D3854A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EA811DD-038A-4D08-871A-34C7D3854A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EA811DD-038A-4D08-871A-34C7D3854A02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFA14C66-FD80-43F2-B889-A82EA172C899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFA14C66-FD80-43F2-B889-A82EA172C899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFA14C66-FD80-43F2-B889-A82EA172C899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFA14C66-FD80-43F2-B889-A82EA172C899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{672F8A74-F5B4-460D-B239-00F82536CFDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{672F8A74-F5B4-460D-B239-00F82536CFDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{672F8A74-F5B4-460D-B239-00F82536CFDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{672F8A74-F5B4-460D-B239-00F82536CFDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E883582-DBD9-46FF-9CDC-AFC62ABF695F}
+	EndGlobalSection
+EndGlobal

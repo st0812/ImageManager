@@ -1,0 +1,5 @@
+<root>
+<DBPath>.\ImageDb.db</DBPath>
+<ImageFolderPath>..\Image</ImageFolderPath>
+<TempImageFolderPath>..\Image\temp</TempImageFolderPath>
+</root>
